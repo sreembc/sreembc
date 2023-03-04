@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreembc
-- 👀 I’m interested in combining web development and Machine learning
-- 🌱 I’m currently learning Java script
+- 👀 I’m interested in Cloud Computing and Machine learning
+- 🌱 I’m currently learning various topics related to ML, Azure and improving my SQL skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
